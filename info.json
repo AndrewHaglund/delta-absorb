@@ -1,6 +1,6 @@
 {
-  "name" : "Widescreen GBC",
-  "identifier" : "com.haglund.gbc.widescreen",
+  "name" : "Absorb",
+  "identifier" : "com.haglund.gbc.absorb",
   "gameTypeIdentifier" : "com.rileytestut.delta.game.gbc",
   "debug" : false,
   "representations" : {
