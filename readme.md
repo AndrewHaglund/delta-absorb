@@ -8,7 +8,7 @@ Absorb is a Gameboy Color skin for the iOS emulator Delta. It maximizes screen s
     - [x] Portrait
 
 ## Someday
-Until I get around to designing these tHe following devices will use the default skin in Delta (created by Caroline Moore).
+Until I design these, other devices will use the default skin from Delta (created by Caroline Moore).
 - [ ] iPhone with Touch ID
     - [ ] Landscape
     - [ ] Portrait
@@ -18,5 +18,6 @@ Until I get around to designing these tHe following devices will use the default
     - [ ] Portrait
     - [ ] Splitview
 
+---
 
-- created 
+If you like the skin please consider [donating](https://ko-fi.com/haglund) a few bucks. (No pressure!) Andrew has a [blog](https://haglund.app) where he writes sometimes about design, games, and other things.
