@@ -1,17 +1,21 @@
 ![Landscape and portrait images of the Gameboy Color skins showing the pause menu of a game relating to pocket monsters.](preview.jpg)
 
-Absorb is a Gameboy Color skin for the iOS emulator Delta. It maximizes screen size in landscape and portrait.
+Absorb is a Gameboy Color skin for the iOS emulator Delta. It maximizes screen size in landscape and portrait and is optimized for OLED displays.
 
-## Currently Supports
-- [x] iPhone with Face ID (10 to 15)
+## Supported and tested
+- [x] iPhone with Face ID (X to 15)
+    - [x] Landscape
+    - [x] Portrait
+
+## Supports but untested
+I don’t have any of these phones to test so it might not work perfectly. It reuses the layout and design from the Face ID layouts.
+
+- [x] iPhone with Touch ID (7, 8, SE 2)
     - [x] Landscape
     - [x] Portrait
 
 ## Someday
 Until I design these, other devices will use the default skin from Delta (created by Caroline Moore).
-- [ ] iPhone with Touch ID
-    - [ ] Landscape
-    - [ ] Portrait
 
 - [ ] iPad
     - [ ] Landscape
