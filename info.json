@@ -19,16 +19,16 @@
                 "right" : "right"
               },
               "frame" : {
-                "x" : 6,
-                "y" : 56,
-                "width" : 132,
-                "height" : 132
+                "x" : 24,
+                "y" : 556,
+                "width" : 144,
+                "height" : 144
               },
               "extendedEdges" : {
-                "top" : 15,
-                "bottom" : 15,
-                "left" : 15,
-                "right" : 15
+                "top" : 16,
+                "bottom" : 16,
+                "left" : 16,
+                "right" : 16
               }
             },
             {
@@ -36,13 +36,13 @@
                 "a"
               ],
               "frame" : {
-                "x" : 241,
-                "y" : 62,
+                "x" : 326,
+                "y" : 580,
                 "width" : 64,
                 "height" : 64
               },
               "extendedEdges" : {
-                "right" : 15
+                "right" : 16
               }
             },
             {
@@ -50,8 +50,8 @@
                 "b"
               ],
               "frame" : {
-                "x" : 176,
-                "y" : 121,
+                "x" : 238,
+                "y" : 612,
                 "width" : 64,
                 "height" : 64
               }
@@ -61,13 +61,16 @@
                 "start"
               ],
               "frame" : {
-                "x" : 173,
-                "y" : 211,
-                "width" : 33,
-                "height" : 16
+                "x" : 223,
+                "y" : 794,
+                "width" : 56,
+                "height" : 38
               },
               "extendedEdges" : {
-                "bottom" : 13
+                "top" : 16,
+                "bottom" : 0, 
+                "left" : 8,
+                "right" : 8
               }
             },
             {
@@ -75,13 +78,16 @@
                 "select"
               ],
               "frame" : {
-                "x" : 113,
-                "y" : 211,
-                "width" : 33,
-                "height" : 16
+                "x" : 135,
+                "y" : 794,
+                "width" : 56,
+                "height" : 38
               },
               "extendedEdges" : {
-                "bottom" : 13
+                "top" : 16,
+                "bottom" : 0, 
+                "left" : 8,
+                "right" : 8
               }
             },
             {
@@ -89,20 +95,45 @@
                 "menu"
               ],
               "frame" : {
-                "x" : 7,
-                "y" : 211,
-                "width" : 33,
-                "height" : 16
+                "x" : 24,
+                "y" : 786,
+                "width" : 32,
+                "height" : 32
               },
               "extendedEdges" : {
-                "left" : 7,
-                "bottom" : 13
+                "top" : 16,
+                "bottom" : 16, 
+                "left" : 16,
+                "right" : 16
+              }
+            },
+            {
+              "inputs" : [
+                "toggleFastForward"
+              ],
+              "frame" : {
+                "x" : 358,
+                "y" : 786,
+                "width" : 32,
+                "height" : 32
+              },
+              "extendedEdges" : {
+                "top" : 16,
+                "bottom" : 16, 
+                "left" : 16,
+                "right" : 16
               }
             }
           ],
+          "gameScreenFrame" : {
+            "x" : 0,
+            "y" : 80,
+            "width" : 414,
+            "height" : 372
+          },
           "mappingSize" : {
-            "width" : 320,
-            "height" : 240
+            "width" : 414,
+            "height" : 896
           },
           "extendedEdges" : {
             "top" : 7,
@@ -124,7 +155,7 @@
                 "right" : "right"
               },
               "frame" : {
-                "x" : 56,
+                "x" : 58,
                 "y" : 135,
                 "width" : 144,
                 "height" : 144
@@ -141,12 +172,15 @@
                 "a"
               ],
               "frame" : {
-                "x" : 791,
+                "x" : 782,
                 "y" : 159,
                 "width" : 64,
                 "height" : 64
               },
               "extendedEdges" : {
+                "top" : 16,
+                "bottom" : 8, 
+                "left" : 8,
                 "right" : 16
               }
             },
@@ -155,13 +189,16 @@
                 "b"
               ],
               "frame" : {
-                "x" : 695,
+                "x" : 694,
                 "y" : 191,
                 "width" : 64,
                 "height" : 64
               },
               "extendedEdges" : {
-                "bottom" : 16
+                "top" : 8,
+                "bottom" : 16, 
+                "left" : 16,
+                "right" : 8
               }
             },
             {
@@ -169,13 +206,16 @@
                 "start"
               ],
               "frame" : {
-                "x" : 802,
-                "y" : 16,
-                "width" : 54,
-                "height" : 47
+                "x" : 786,
+                "y" : 366,
+                "width" : 56,
+                "height" : 38
               },
               "extendedEdges" : {
-                "bottom" : 18
+                "top" : 12,
+                "bottom" : 4, 
+                "left" : 4,
+                "right" : 4
               }
             },
             {
@@ -183,13 +223,16 @@
                 "select"
               ],
               "frame" : {
-                "x" : 716,
-                "y" : 16,
-                "width" : 54,
-                "height" : 47
+                "x" : 698,
+                "y" : 366,
+                "width" : 56,
+                "height" : 38
               },
               "extendedEdges" : {
-                "bottom" : 18
+                "top" : 12,
+                "bottom" : 4, 
+                "left" : 4,
+                "right" : 4
               }
             },
             {
@@ -197,21 +240,40 @@
                 "menu"
               ],
               "frame" : {
-                "x" : 56,
-                "y" : 16,
-                "width" : 54,
-                "height" : 47
+                "x" : 74,
+                "y" : 358,
+                "width" : 32,
+                "height" : 32
               },
               "extendedEdges" : {
-                "left" : 13,
-                "top" : 18
+                "top" : 16,
+                "bottom" : 16, 
+                "left" : 16,
+                "right" : 16
+              }
+            },
+            {
+              "inputs" : [
+                "toggleFastForward"
+              ],
+              "frame" : {
+                "x" : 154,
+                "y" : 358,
+                "width" : 32,
+                "height" : 32
+              },
+              "extendedEdges" : {
+                "top" : 16,
+                "bottom" : 16, 
+                "left" : 16,
+                "right" : 16
               }
             }
           ],
           "gameScreenFrame" : {
-            "x" : 216,
+            "x" : 218,
             "y" : 0,
-            "width" : 463,
+            "width" : 460,
             "height" : 414
           },
           "mappingSize" : {
@@ -225,8 +287,9 @@
             "right" : 7
           },
           "translucent" : false
-        }
-      },
+        
+      }
+    },
       "edgeToEdge" : {
         "portrait" : {
           "assets" : {
