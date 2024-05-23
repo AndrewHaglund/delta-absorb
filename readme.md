@@ -23,8 +23,10 @@ Until I design these, other devices will use the default skin from Delta (create
     - [ ] Splitview
 
 ---
+
 ## Download
 [Absorb-GBC.deltaskin](https://github.com/AndrewHaglund/delta-absorb/blob/main/Absorb-GBC.deltaskin)
+
 ---
 
 If you like the skin please consider [donating](https://ko-fi.com/haglund) a few bucks. (No pressure!) Andrew has a [blog](https://haglund.app) where he writes sometimes about design, games, and other things.
