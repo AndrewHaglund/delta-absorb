@@ -652,7 +652,7 @@
             "left": 15,
             "right": 15
           },
-          "translucent": true
+          "translucent": false
         }
       }
     },
