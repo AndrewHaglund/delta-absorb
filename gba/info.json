@@ -355,13 +355,13 @@
                 "r"
               ],
               "frame": {
-                "x": 414,
+                "x": 364,
                 "y": 458,
                 "width": 50,
-                "height": 71
+                "height": 72
               },
               "extendedEdges": {
-                "top": "16",
+                "top": 16,
                 "left": 64
               }
             },
