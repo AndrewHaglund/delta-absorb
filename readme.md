@@ -1,8 +1,10 @@
+Absorb is a Gameboy Color and Gameboy Advance skin for the iOS emulator Delta. It maximizes screen size in landscape and portrait and is optimized for OLED displays.
+
 ![Landscape and portrait images of the Gameboy Color skins showing the pause menu of a game relating to pocket monsters.](preview.jpg)
+*Gameboy Color*
 
 ![Landscape and portrait images of the Gameboy Advance skins showing the pause menu of a game relating to pocket monsters.](preview_gba.jpg)
-
-Absorb is a Gameboy Color and Gameboy Advance skin for the iOS emulator Delta. It maximizes screen size in landscape and portrait and is optimized for OLED displays.
+*Gameboy Advance*
 
 ## Supported and tested ✅
 
