@@ -60,12 +60,6 @@ Until I design these, other devices will use the default skin from Delta (create
 - [Absorb-GBC.deltaskin](https://github.com/AndrewHaglund/delta-absorb/blob/main/Absorb-GBC.deltaskin)
 - [Absorb-GBA.deltaskin](https://github.com/AndrewHaglund/delta-absorb/blob/main/Absorb-GBA.deltaskin)
 
----
-
-If you like the skin please consider [donating](https://ko-fi.com/haglund) a few bucks. (No pressure!) Andrew has a [blog](https://haglund.app) where he writes sometimes about design, games, and other things.
-
----
-
 ## Documentation
 
 The JSON and PDFs are based originally from [Riley’s documentation](https://noah978.gitbook.io/delta-docs/skins).
@@ -76,4 +70,11 @@ The skin uses Apple’s [SF Pro Rounded](https://developer.apple.com/fonts/) typ
 
 JSON files were edited using Simon Støvring’s excellent JSON editor, [Jayson](https://jayson.app).
 
-Designs created in Figma.
+Designed with Figma.
+
+
+---
+
+If you like the skin please consider [donating](https://ko-fi.com/haglund) a few bucks. (No pressure!) Andrew has a [blog](https://haglund.app) where he writes sometimes about design, games, and other things.
+
+---
